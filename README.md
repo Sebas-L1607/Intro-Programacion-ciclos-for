@@ -1,5 +1,5 @@
 # MODULO INTRDUCCIÓN A LA PROGRMACIÓN
-# SESION Ciclos FOR
+# Sesion Ciclos FOR
 
 ---
 
